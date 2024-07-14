@@ -10,7 +10,7 @@ This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3
 - [tRPC](https://trpc.io)
 
 ## TODO
-* Scafoold basic UI with mock data
+* Scaffold basic UI with mock data
 * Add authentication (clerk)
 * Attach UI with database
 * Analytics and ratelimitting (posthog and upstash)
